@@ -1,0 +1,23 @@
+{
+  "name": "travel-info-mexiko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxR92/Travel-info-Mexiko.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxR92/Travel-info-Mexiko/issues"
+  },
+  "homepage": "https://github.com/MaxR92/Travel-info-Mexiko#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

@@ -1,0 +1,57 @@
+#background-gradient {
+    background: rgb(38,107,42);
+    background: linear-gradient(90deg, rgba(38,107,42,0.9962185557816877) 0%, rgba(255,255,255,1) 50%, rgba(153,16,16,1) 100%); 
+}
+
+#day-of-the-dead-img {
+    height: 100% !important ;
+    object-fit: cover !important
+}
+
+#tulum-img {
+    height: 100% !important ;
+    object-fit: cover !important;
+}
+
+#chiapas-img {
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
+#oaxaca-img {
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
+#baja-img {
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
+#veracruz-img {
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
+#sonora-img {
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
+#mexiko-art {
+    background: #14A327;
+    background: -webkit-linear-gradient(to bottom right, #14A327 0%, #F21915 100%);
+    background: -moz-linear-gradient(to bottom right, #14A327 0%, #F21915 100%);
+    background: linear-gradient(to bottom right, #14A327 0%, #F21915 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 5rem;
+}
+
+.dropdown-menu[data-bs-popper] {
+    left: -100%;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #198754;
+}
